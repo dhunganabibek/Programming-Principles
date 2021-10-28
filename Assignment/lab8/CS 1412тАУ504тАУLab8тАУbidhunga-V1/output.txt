@@ -1,0 +1,55 @@
+Original file
+
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+
+
+encrypted file
+h�4�ux�4x}�y�{yx4}�4u4�y�4�x@U�x4�4]4w�x4�4�u�y�4v�|U�x4vy4�y4�u�y�y�@4�{4]4�xU�x4�yx4x�4�y4u�4zu�4u�4]4w�xh�4�|y�y4}�4vy�4}�4�|y4�xy�{�|Oh|y�4�4�|y4�|y�@4u�4~�4u�4zu}�@U�x4|u�}�{4�y�|u�4�|y4vy�y�4w�u}�@Vywu�y4}�4�u�4{�u�4u�x4�u�yx4�yu�Oh|�{|4u�4z�4�|u�4�|y4�u�}�{4�|y�y\ux4�4�|y�4�yu�4uv�4�|y4�u�y@U�x4v�|4�|u�4�}�{4y�u�4�u�]�4�yu�y�4�4�y�4|ux4�xxy�4v�uwBc|@4]4y�4�|y4z}�4z�4u�|y�4xu�5my�4�}�{4|�4�u�4�yux�4�4�4�u�@]4x�v�yx4}z4]4�|�x4y�y�4w�y4vuwB]4�|u�4vy4�y�}�{4�|}�4�}�|4u4�}{|g�y�|y�y4u{y�4u�x4u{y�4|y�wyNh�4�ux�4x}�y�{yx4}�4u4�x@4u�x4]�]4�4�|y4�y4�y�4�u�y�yx4v�@U�x4�|u�4|u�4�uxy4u�4�|y4x}zzy�y�wyB
+
+
+decrypted file
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.

@@ -1,0 +1,13 @@
+Compiling C program:
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\lab 1> g++ -o lab1 lab1.c
+
+Running the program:
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\lab 1> ./lab1
+
+
+OUTPUT
+TIP CALCULATOR
+Enter the bill: 20.25
+Enter the percentage of the tip: 20
+Enter the number of the people: 3
+Tip per person is $1.35 and total per person is $8.10

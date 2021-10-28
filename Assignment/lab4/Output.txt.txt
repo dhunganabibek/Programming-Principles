@@ -1,0 +1,52 @@
+EXAMPLE !:
+INPUT:
+Print all unique elements of an array:
+------------------------------------------
+Input the number of elements to be stored in the array:4
+Input 4 elements in the array:
+element-0:2
+element-1:2
+element-2:4
+element-3:3
+
+
+OUTPUT:
+The unique elements found in the array are:
+4 3
+
+EXAMPLE 2:
+INPUT:
+Print all unique elements of an array:
+------------------------------------------
+Input the number of elements to be stored in the array:2
+Input 2 elements in the array:
+element-0:1
+element-1:223
+
+
+
+OUTPUT:
+The unique elements found in the array are:
+1 223
+
+
+EXAMPLE 3:
+INPUT:
+Print all unique elements of an array:
+------------------------------------------
+Input the number of elements to be stored in the array:10
+Input 10 elements in the array:
+element-0:1
+element-1:1
+element-2:2
+element-3:2
+element-4:3
+element-5:3
+element-6:4
+element-7:4
+element-8:5
+element-9:6
+
+OUTPUT:
+The unique elements found in the array are:
+5 6

@@ -1,0 +1,93 @@
+ clang-7 -pthread -lm -o main main.c vegetable.c
+ ./main
+Enter 'a' to add inventory, 's' to sell product and 'd' to display status of inventory, 'r' for refund and 'q' to quit
+a
+
+How many vegetables you want to enter to your inventory?3
+Enter the vegetable name, price per pound and quantity separated by space
+tomato 2.6 82.0
+Enter the vegetable name, price per pound and quantity separated by space
+potato 1.8 56.0
+Enter the vegetable name, price per pound and quantity separated by space
+brinjal 1.2 88.0
+Enter 'a' to add inventory, 's' to sell product and 'd' to display status of inventory, 'r' for refund and 'q' to quit
+Enter 'a' to add inventory, 's' to sell product and 'd' to display status of inventory, 'r' for refund and 'q' to quit
+d
+
+The inventory is as follow:
+---------------------------------------
+Vegetable Name:tomato
+pricePerPound:2.60
+Quantity:82.00
+
+
+Vegetable Name:potato
+pricePerPound:1.80
+Quantity:56.00
+
+
+Vegetable Name:brinjal
+pricePerPound:1.20
+Quantity:88.00
+
+
+---------------------------------------
+Enter 'a' to add inventory, 's' to sell product and 'd' to display status of inventory, 'r' for refund and 'q' to quit
+s
+what do you want to sell to customer?tomato
+How much pounds do you want?2.7
+Total item sold:1
+Do you want to buy anything else?Enter 'yes' or 'no':yes
+what do you want to sell to customer?potato
+How much pounds do you want?5.6
+Total item sold:2
+Do you want to buy anything else?Enter 'yes' or 'no':no
+
+Your receipt is
+
+---------------------BILL----------------------------------------
+
+-----------------------------------------------------------------
+Items                            Pounds
+tomato                             2.70
+potato                             5.60
+
+GRAND TOTAL:17.10
+
+-----------------------THANK YOU----------------------------------
+
+------------------------------------------------------------------
+Enter 'a' to add inventory, 's' to sell product and 'd' to display status of inventory, 'r' for refund and 'q' to quit
+Enter 'a' to add inventory, 's' to sell product and 'd' to display status of inventory, 'r' for refund and 'q' to quit
+r
+what do you want to as refund?potato
+How much pounds do you want to refund?1.8
+
+Do you want to refund anything else?Enter 'yes' or 'no':no
+Enter 'a' to add inventory, 's' to sell product and 'd' to display status of inventory, 'r' for refund and 'q' to quit
+Enter 'a' to add inventory, 's' to sell product and 'd' to display status of inventory, 'r' for refund and 'q' to quit
+d
+
+The inventory is as follow:
+---------------------------------------
+Vegetable Name:tomato
+pricePerPound:2.60
+Quantity:79.30
+
+
+Vegetable Name:potato
+pricePerPound:1.80
+Quantity:52.20
+
+
+Vegetable Name:brinjal
+pricePerPound:1.20
+Quantity:88.00
+
+
+---------------------------------------
+Enter 'a' to add inventory, 's' to sell product and 'd' to display status of inventory, 'r' for refund and 'q' to quit
+q
+
+Thank you for your business
+ 

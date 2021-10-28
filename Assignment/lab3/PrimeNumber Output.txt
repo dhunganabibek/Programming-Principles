@@ -1,0 +1,36 @@
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\Lab3> g++ -o primeNumber primeNumber.c
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\Lab3> ./primeNumber
+This program generate all the prime number upto the given input
+Please enter the positive number:100
+2
+3
+5
+7
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+53
+59
+61
+67
+71
+73
+79
+83
+89
+97
+
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\Lab3> ./primeNumber
+Please enter the positive number:10
+2
+3
+5
+7

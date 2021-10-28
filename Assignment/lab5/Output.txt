@@ -1,0 +1,19 @@
+Input the string:TexasTech 1234
+
+The total number of alphabets:9
+The total number of digits:4
+The total number of lower case alphabets:7
+The total number of upper case alphabets:2
+The total number of vowels:3
+The total number of consonants:6
+
+
+
+Input the string:The most important concept in CS 1412 so far is recursion
+
+The total number of alphabets:43
+The total number of digits:4
+The total number of lower case alphabets:40
+The total number of upper case alphabets:3
+The total number of vowels:15
+The total number of consonants:28

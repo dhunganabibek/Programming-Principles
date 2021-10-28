@@ -1,0 +1,11 @@
+Enter the string:wow
+yes
+
+Enter the string:man
+no
+
+Enter the string:hooh
+yes
+
+Enter the string:computer
+no

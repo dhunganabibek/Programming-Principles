@@ -1,0 +1,18 @@
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\Lab3> g++ -o stringReverse .\stringReverse.c
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\Lab3> .\stringReverse
+Please enter the string upto 50 character:Bibek
+The reversed string is:
+kebiB
+
+
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\Lab3> .\stringReverse
+Please enter the string upto 50 character:I love Programming
+The reversed string is:
+gnimmargorP evol I
+
+
+
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\Lab3> .\stringReverse
+Please enter the string upto 50 character:Computer Science
+The reversed string is:
+ecneicS retupmoC

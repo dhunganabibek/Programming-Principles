@@ -1,0 +1,13 @@
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\lab2> g++ -o lab2 lab2.c
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\lab2> ./lab2
+
+Orbital speed Calculator
+Enter the altitude of the Satellite in km:220
+The orbital speed of the satellite is 7782 m/s
+
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\lab2> ./lab2
+
+Orbital speed Calculator
+Enter the altitude of the Satellite in km:550
+The orbital speed of the satellite is 7594 m/s
+PS C:\Users\Dhung\OneDrive\Spring 2021\CS 1412\Assignment\lab2>

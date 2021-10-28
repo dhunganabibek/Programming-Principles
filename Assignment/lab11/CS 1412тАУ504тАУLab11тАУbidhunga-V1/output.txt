@@ -1,0 +1,90 @@
+Initial initialization of the student in the university
+How many student information you want to enter?3
+Please Enter student ids:
+11679703
+11679704
+11679705
+Follow the instruction below or -1 to exit
+1 - Add student
+2 - Create initial schedule
+3 - Add class
+4 - Drop class
+5 - Get info about classes registered
+Enter choice: 1
+Enter of student id: 11679706
+The student is added successfully
+----------------------------------------------------------------------
+Follow the instruction below or -1 to exit
+1 - Add student
+2 - Create initial schedule
+3 - Add class
+4 - Drop class
+5 - Get info about classes registered
+Enter choice: 2
+Enter student id: 11679703
+Enter number of class: 1
+Enter class name, sectionNumber and numberOfCredits:
+cs1411 1 4
+The schedule  is built successfully
+----------------------------------------------------------------------
+Follow the instruction below or -1 to exit
+1 - Add student
+2 - Create initial schedule
+3 - Add class
+4 - Drop class
+5 - Get info about classes registered
+Enter choice: 3
+Enter student id: 11679703
+Enter class name, sectionNumber and numberOfCredits:
+math 2 4
+The class is added sucessfully
+----------------------------------------------------------------------
+Follow the instruction below or -1 to exit
+1 - Add student
+2 - Create initial schedule
+3 - Add class
+4 - Drop class
+5 - Get info about classes registered
+Enter choice: 5
+----------------------------------------------------------------------
+The total info of student are:
+Student id: 11679703
+cs1411 1 4
+math 2 4
+Student id: 11679704
+Student id: 11679705
+Student id: 11679706
+----------------------------------------------------------------------
+Follow the instruction below or -1 to exit
+1 - Add student
+2 - Create initial schedule
+3 - Add class
+4 - Drop class
+5 - Get info about classes registered
+Enter choice: 4
+Enter student id: 11679703
+Enter class name to drop: math
+The classes is dropped successfully----------------------------------------------------------------------
+Follow the instruction below or -1 to exit
+1 - Add student
+2 - Create initial schedule
+3 - Add class
+4 - Drop class
+5 - Get info about classes registered
+Enter choice: 5
+----------------------------------------------------------------------
+The total info of student are:
+Student id: 11679703
+cs1411 1 4
+Student id: 11679704
+Student id: 11679705
+Student id: 11679706
+----------------------------------------------------------------------
+Follow the instruction below or -1 to exit
+1 - Add student
+2 - Create initial schedule
+3 - Add class
+4 - Drop class
+5 - Get info about classes registered
+Enter choice: -1
+Program ended with exit code: 0
